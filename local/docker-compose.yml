@@ -1,0 +1,10 @@
+services:
+  db:
+    image: mysql:latest
+    environment:
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: 123
+      MYSQL_DATABASE: pagarmedb
+      MYSQL_RANDOM_ROOT_PASSWORD: true
+    ports:
+      - "3306:3306"
