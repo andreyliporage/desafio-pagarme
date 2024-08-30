@@ -1,4 +1,4 @@
-# # Desafio Software Engineer, Back-end - Pagar.me
+# Desafio Software Engineer, Back-end - Pagar.me
 
 Nesse desafio você construirá uma versão super simplificada de um Payment Service Provider (PSP) como o Pagar.me e talvez aprender um pouco mais sobre como funcionam pagamentos no Brasil.
 
